@@ -2905,9 +2905,8 @@ a:hover , .btn-link:hover{
 }
 /************************** Mega Menu ******************************/
 ul {
-    list-style: none;
     padding: 0;
-    margin: 0;
+    margin-left: 5%;
 }
 .exo-menu{
 	width: 100%;
