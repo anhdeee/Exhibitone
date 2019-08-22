@@ -2908,6 +2908,9 @@ ul {
     padding: 0;
     margin-left: 5%;
 }
+ul.footer {
+    margin-left: 0;
+}
 .exo-menu{
 	width: 100%;
 	float: left;
