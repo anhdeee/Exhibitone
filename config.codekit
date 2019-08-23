@@ -636,6 +636,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/custom\/images\/e1-shortcut-icon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109299,
+		"inputAbbreviatedPath": "\/assets\/custom\/images\/e1-shortcut-icon.jpg",
+		"outputAbbreviatedPath": "\/assets\/custom\/images\/e1-shortcut-icon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/custom\/images\/england.png": {
 		"fileType": 32768,
 		"ignore": 0,
